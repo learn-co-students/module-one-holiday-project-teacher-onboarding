@@ -1,4 +1,4 @@
-# Module One Project
+# Module One Project 
 
 :snowflake::christmas_tree::snowflake: _It's holiday time!_ :snowflake::christmas_tree::snowflake:
 As prep for the Module 1 final project, we'll be building a Command Line Interface (CLI) database application.
